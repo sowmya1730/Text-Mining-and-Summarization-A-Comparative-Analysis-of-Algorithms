@@ -30,7 +30,7 @@ This project analyzes Amazon product reviews to extract meaningful insights, inc
 4. Export labeled data as `labeled_reviews.csv`.
 
 ## Outputs
-- Sentiment Distribution (Bar Chart) along with it's Classification Report(Accuracy)
+- Sentiment Distribution (Bar Chart) along with it's Classification Report (Accuracy)
 - Topic Keywords 
 - Cluster Visualization (Scatter Plot) along with sihouette score(before and after improving)
 - Labeled Dataset (`labeled_reviews.csv`)
