@@ -1,4 +1,4 @@
-# Amazon Reviews Analysis
+# Contextual Analysis of Product Reviews using Text Mining and Clustering
 
 ## Project Overview
 This project analyzes Amazon product reviews to extract meaningful insights, including:
